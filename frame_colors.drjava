@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20140826-r5761">
+  <project autorefresh="false" build="bin/" main="App" root="src/" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="App.java" package="" timestamp="21-Aug-2016 14:41:15">
+        <select from="790" to="790"/>
+        <scroll column="150" row="0"/>
+      </file>
+      <file name="ColorPanel.java" package="" timestamp="21-Aug-2016 14:39:54">
+        <select from="790" to="790"/>
+        <scroll column="150" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath>
+      <file absolute="false" name="../lib/javacpp/1.2/javacpp-1.2.jar"/>
+      <file absolute="false" name="../lib/javacv/1.2/javacv-1.2.jar"/>
+      <file absolute="false" name="../lib/javacpp-presets/ffmpeg/3.0.2-1.2/ffmpeg-3.0.2-1.2-macosx-x86_64.jar"/>
+      <file absolute="false" name="../lib/javacpp-presets/ffmpeg/3.0.2-1.2/ffmpeg-3.0.2-1.2.jar"/>
+    </classpath>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
